@@ -7,7 +7,7 @@ name: Deploy GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main-pr]
   workflow_dispatch:
 
 permissions:
