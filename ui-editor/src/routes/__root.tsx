@@ -162,7 +162,23 @@ function AppShell({ children }: { children: React.ReactNode }) {
               </Link>
             </div>
           </div>
-          <GlobalSearchTrigger onClick={open} />
+          <div className="flex items-center gap-4">
+            <a
+              href="https://openprinttag.org"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 transition-opacity hover:opacity-80"
+              style={{ color: 'hsl(var(--foreground))' }}
+              title="OpenPrintTag"
+            >
+              <img
+                src="https://openprinttag.org/logo.svg"
+                alt="OpenPrintTag"
+                className="h-6"
+              />
+            </a>
+            <GlobalSearchTrigger onClick={open} />
+          </div>
         </div>
       </nav>
       {/* Main Content */}
