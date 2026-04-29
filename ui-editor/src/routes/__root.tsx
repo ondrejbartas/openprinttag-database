@@ -167,15 +167,10 @@ function AppShell({ children }: { children: React.ReactNode }) {
               href="https://openprinttag.org"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 transition-opacity hover:opacity-80"
-              style={{ color: 'hsl(var(--foreground))' }}
-              title="OpenPrintTag"
+              className="text-sm transition-opacity hover:opacity-80"
+              style={{ color: 'hsl(var(--muted-foreground))' }}
             >
-              <img
-                src="https://openprinttag.org/logo.svg"
-                alt="OpenPrintTag"
-                className="h-6"
-              />
+              More about OpenPrintTag →
             </a>
             <GlobalSearchTrigger onClick={open} />
           </div>
