@@ -8,7 +8,8 @@ type: PLA
 abbreviation: PLA
 url: https://www.prusa3d.com/product/prusament-pla-electric-green-1kg-nfc/
 primary_color:
-  color_rgba: '#9be3bfff'
+  color_rgba: '#a1f0b9ff'
+  color_lab: [83.6283, -29.2867, 16.5433]
 tags:
 - industrially_compostable
 properties:

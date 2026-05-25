@@ -8,7 +8,8 @@ type: PLA
 abbreviation: PLA
 url: https://www.prusa3d.com/product/prusament-pla-blood-red-1kg/
 primary_color:
-  color_rgba: '#990303ff'
+  color_rgba: '#83242eff'
+  color_lab: [28.6253, 35.9333, 15.9433]
 tags:
 - industrially_compostable
 properties:

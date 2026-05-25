@@ -8,7 +8,8 @@ type: PLA
 abbreviation: PLA
 url: https://www.prusa3d.com/product/prusament-pla-pistachio-green-1kg/
 primary_color:
-  color_rgba: '#93a683ff'
+  color_rgba: '#9bb085ff'
+  color_lab: [65.1219, -11.6667, 17.0033]
 tags:
 - industrially_compostable
 certifications:

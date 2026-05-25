@@ -8,7 +8,8 @@ type: PLA
 abbreviation: PLA
 url: https://www.prusa3d.com/product/prusament-pla-chalky-blue-1kg/
 primary_color:
-  color_rgba: '#6f9aaaff'
+  color_rgba: '#729ebaff'
+  color_lab: [58.9058, -8.7967, -17.1567]
 tags:
 - industrially_compostable
 certifications:

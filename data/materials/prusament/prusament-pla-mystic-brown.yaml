@@ -8,7 +8,8 @@ type: PLA
 abbreviation: PLA
 url: https://www.prusa3d.com/product/prusament-premium-pla-mystic-brown-1kg-2/
 primary_color:
-  color_rgba: '#482e31ff'
+  color_rgba: '#582c2fff'
+  color_lab: [22.4092, 18.1033, 6.9133]
 transmission_distance: 1.8
 tags:
 - iridescent

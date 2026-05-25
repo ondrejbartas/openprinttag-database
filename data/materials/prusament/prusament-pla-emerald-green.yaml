@@ -8,7 +8,8 @@ type: PETG
 abbreviation: PETG
 url: https://www.prusa3d.com/product/prusament-pla-emerald-green-1kg-nfc/
 primary_color:
-  color_rgba: '#115740ff'
+  color_rgba: '#006441ff'
+  color_lab: [33.7885, -32.0667, 10.0233]
 properties:
   density: 1.24
   hardness_shore_d: 81.0
